@@ -43,3 +43,4 @@ on mobile devices, improving overall user experience.
 linting 工具：考虑使用 commitlint 等工具来检查 commit 信息的格式。
 模板：可以使用 commit message template 功能，预设 commit 信息格式，使得编写时更为高效。
 遵循这些最佳实践，可以帮助你和你的团队维护更有条理、更专业的代码库，使得代码的历史变得更容易理解。
+add new

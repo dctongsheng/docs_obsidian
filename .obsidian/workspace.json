@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git教程/如何写好commit.md",
+                "file": "未命名 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "如何写好commit"
+              "title": "未命名 1"
             }
           }
         ],
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git教程/如何写好commit.md",
+                "file": "未命名 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "如何写好commit 的反向链接列表"
+              "title": "未命名 1 的反向链接列表"
             }
           },
           {
@@ -170,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git教程/如何写好commit.md",
+                "file": "未命名 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "如何写好commit 的出链列表"
+              "title": "未命名 1 的出链列表"
             }
           },
           {
@@ -236,8 +236,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "66e76639d6d62e7e",
+  "active": "50994f7b88ed6b2a",
   "lastOpenFiles": [
+    "欢迎.md",
+    "未命名 1.md",
+    "git教程/如何写好commit.md",
     "AI编程教程/cursor+supabase构建智能分析demo.md",
     "AI编程教程/cursor+supabase：构建全栈代办事项.md",
     "AI编程教程/supabase教程.md",
@@ -248,10 +251,7 @@
     "工具教程/memobase部署教程.md",
     "工具教程/基础工具/postsql部署教程.md",
     "工具教程/基础工具/redis部署教程.md",
-    "欢迎.md",
     "工具教程/基础工具",
-    "未命名 1.md",
-    "git教程/如何写好commit.md",
     "未命名 1.canvas",
     "未命名.canvas",
     "工具教程",
