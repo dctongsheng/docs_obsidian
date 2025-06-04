@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"cbf651dc1bd924d1","x":-140,"y":0,"width":110,"height":50,"type":"text","text":""},
+		{"id":"27547b1770f409f0","x":-210,"y":120,"width":250,"height":60,"type":"text","text":""},
+		{"id":"36e5bbab93e6882d","x":-303,"y":262,"width":250,"height":60,"type":"text","text":""},
+		{"id":"e598dcc13a0618cf","x":-30,"y":247,"width":250,"height":75,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"7bb34d83eae5f7d7","fromNode":"cbf651dc1bd924d1","fromSide":"bottom","toNode":"27547b1770f409f0","toSide":"top"},
+		{"id":"b561dfdbe1d81a2c","fromNode":"27547b1770f409f0","fromSide":"bottom","toNode":"36e5bbab93e6882d","toSide":"top"},
+		{"id":"7e4855a2bb083840","fromNode":"27547b1770f409f0","fromSide":"bottom","toNode":"e598dcc13a0618cf","toSide":"top","label":"是"}
+	]
+}
